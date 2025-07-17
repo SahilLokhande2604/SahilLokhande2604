@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Sahil Lokhande</h1>
 <!-- -->
 <h3 align="center">I’m a Final-year Computer Engineering student from Pune.</h3>
@@ -18,11 +18,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Full St
 ## 🔥 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
