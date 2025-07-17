@@ -1,94 +1,154 @@
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sahil Lokhande
+</h1>
 
-<h1 align="center">Hi 👋, I'm Sahil Lokhande</h1>
-<!-- -->
-<h3 align="center">I’m a Final-year Computer Engineering student from Pune.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FFDD&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Final+Year+Computer+Engineer+from+VIIT+Pune;700%2B+DSA+Problems+Solved+%7C+Cloud+%7C+Blockchain+%7C+Full+Stack+Dev;Always+Learning+%7C+Building+%7C+Contributing" alt="Typing SVG" />
+</p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Full Stack Engineer**, and **Cloud & Blockchain Enthusiast** with expertise in building scalable, dynamic, and secure applications. 🚀
+## 🧠 About Me
 
-## 🚀 About Me
-- 🎓 Pursuing **Bachelor of Technology (B-tech) in Computer Engineering** at **VIIT Pune**
-- 💻 Proficient in **Java, C++, JavaScript, Node.js, Express.js**
-- 🌐 Experienced with **MongoDB, MySQL, AWS, Solidity, Hardhat, IPFS, Pinata**
-- 📌 Interested in **Software Development, Cloud Services and Web Development**
-- 🎯 Currently exploring **DevOps, Open Source, and Full-Stack Architectures**
-- 🏆 Competitive Programmer: **700+ DSA Questions solved** across platforms
+<table>
+  <tr>
+    <td width="50%">
+      <ul>
+        <li>🎓 Final Year <b>B.Tech (Computer Engineering)</b> @ VIIT, Pune</li>
+        <li>💡 Focus: <b>Software Dev, DevOps, Cloud, Blockchain</b></li>
+        <li>👨‍💻 Languages: Java, C++, JS, Solidity</li>
+        <li>🧩 Solved <b>700+ DSA</b> Problems on LeetCode, GFG & CodeChef</li>
+        <li>🚀 Exploring: <b>Full-Stack Systems, Graphs, OS Internals</b></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
-## 🔥 Tech Stack
+---
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F2C811?style=for-the-badge&logo=ethereum&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🏆 Achievements & Highlights
 
-## 🏆 Achievements
+<table>
+  <tr>
+    <td>
+      🥇 <b>1st Place</b> - Unstop Weekly Coding Contest  
+      <br>🔥 <b>700+ DSA Questions Solved</b> across platforms  
+      ⭐ <b>4★</b> on GeeksforGeeks (Top 6.2%)  
+      🧮 <b>Rank 89</b> in GFG Weekly Contest  
+      🍽 <b>2★</b> CodeChef (Max Rating 1427)  
+      🛠 <b>Built 3+ Real-World Projects</b> in Java, Web3, and Full Stack  
+    </td>
+  </tr>
+</table>
 
-- 🥇 **1st place in Unstop Weekly Contest**
-- 🔥 **700+ DSA Questions solved** on various coding platforms
-- ⭐ **4★ at GeeksforGeeks** (Top 6.2%), **2★ at CodeChef** (Max rating 1427)
-- 🏅 **Rank 89** in GeeksforGeeks Weekly Contest
+---
 
-## 📌 Featured Projects
+<h2>🏆 GitHub Trophies</h2>
 
-### 💸 Smart Expense Splitter with Debt Minimization
-Tech Stack: **Java, OOP, Java Collections**  
-- Group expense tracker that simplifies debts and minimizes transactions.
-- Supports multiple groups, unequal splits, real-time balance tracking.
-- Utilizes optimization techniques for efficient settlements.
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=SahilLokhande2604&theme=onedark&title=Stars,Followers,Commits,PullRequest,Issues,Repositories&margin-w=15&margin-h=15"
+    alt="Trophies"
+    style="max-width: 100%; height: auto;" 
+  />
+</p>
 
-### 🔗 D-Drive: Blockchain-based Web Application
-Tech Stack: **Solidity, Ethereum, Hardhat, IPFS, Pinata**  
-- Decentralized file storage with secure access control via smart contracts.
-- Optimized gas costs by 30%, ensuring efficient blockchain operations.
-- Reliable, tamper-proof file storage using IPFS (99.9% availability).
 
-### 🌱 Happy Day-Foundation – Web Platform
-Tech Stack: **NodeJS, MongoDB, Razorpay, HTML, CSS, JavaScript**  
-- Full-stack donation platform for NGOs: volunteer registration, content management.
-- Integrated Razorpay for secure payments; real-time admin dashboard.
-- Responsive and scalable design for smooth user experience.
 
-## 📚 Certifications
 
-- Data Structures and Algorithms Using Java
-- AWS Academy Graduate – Cloud Foundation
-- Unstop DBMS
 
-## 🔗 Coding Profiles
+## 🔢 DSA Contribution
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahillokhande/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sahillokhande21)
-[![Unstop](https://img.shields.io/badge/Unstop-0056D2?style=for-the-badge&logoColor=white)](https://unstop.com/u/sahillok7456)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahillokhande)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
+</p>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sahillokhande?theme=unicorn&ext=heatmap" width="400" />
+  <img src="https://geeksforgeeks-stats-api.vercel.app/?userName=sahillokhande21" width="400"/>
+</div>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/sahillokhande">
+    <img src="https://cp-logo.vercel.app/codechef/sahillokhande?logo=true&badge=2" width="160"/>
+  </a>
+</p>
+
+---
+
+
+## 💼 Featured Projects
+
+  | Project | Description | Tech Stack |
+  |--------|-------------|------------|
+  | 💸 **Smart Expense Splitter** | Debt Minimization using Graphs (Java) | Java, Collections, CLI |
+  | 🔗 **D-Drive** | Blockchain file storage using IPFS & Smart Contracts | Solidity, IPFS, Hardhat |
+  | 🌱 **Happy Day Foundation** | Donation platform for NGOs with Razorpay | Node.js, MongoDB, HTML |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,nodejs,express,mongodb,mysql,aws,solidity,hardhat,git,github,html,css" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilLokhande2604&theme=radical" alt="SahilLokhande2604's GitHub Contribution"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SahilLokhande2604&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilLokhande2604&layout=compact&theme=tokyonight" width="330"/>
 </p>
 
-<a>
-  <a href="https://github.com/SahilLokhande2604"><img alt="SahilLokhande2604's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SahilLokhande2604&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/SahilLokhande2604"><img alt="SahilLokhande2604's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SahilLokhande2604&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilLokhande2604&theme=react-dark&area=true" width="100%"/>
+</p>
 
-![SahilLokhande2604's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilLokhande2604&custom_title=SahilLokhande2604's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+---
 
-## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/sahillokhande21/](https://www.linkedin.com/in/sahillokhande21)
-- **GitHub:** [github.com/SahilLokhande2604](https://github.com/SahilLokhande2604)
-- **Email:** sahillokhande21@gmail.com
+## 📚 Certifications
 
-Thanks for visiting! 😊🚀
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/external-flat-juicy-fish/120/000000/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" width="60"/><br>
+      <strong>DSA in Java</strong><br>
+      Infosys Springboard
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="60"/><br>
+      <strong>AWS Cloud Foundations</strong><br>
+      AWS Academy
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/201/201612.png" width="60"/><br>
+      <strong>DBMS</strong><br>
+      Unstop
+    </td>
+     <td align="center" width="140">
+      <img src="https://img.icons8.com/color/96/blockchain-technology.png" width="50"/><br>
+      <strong>Ethereum Blockchain</strong><br>
+      Infosys Springboard
+    </td>
+  </tr>
+</table>
+
+
+
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahillokhande21/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sahillokhande21@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SahilLokhande2604"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SahilLokhande2604&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
