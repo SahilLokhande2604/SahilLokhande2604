@@ -8,18 +8,21 @@
 Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Full Stack Engineer**, and **Cloud & Blockchain Enthusiast** with expertise in building scalable, dynamic, and secure applications. 🚀
 
 ## 🚀 About Me
-- 🎓 Pursuing **Bachelor of Engineering (BE) in Computer Engineering** at **VIIT Pune**
+- 🎓 Pursuing **Bachelor of Technology (B-tech) in Computer Engineering** at **VIIT Pune**
 - 💻 Proficient in **Java, C++, JavaScript, Node.js, Express.js**
 - 🌐 Experienced with **MongoDB, MySQL, AWS, Solidity, Hardhat, IPFS, Pinata**
-- 📌 Interested in **Software Development, Cloud Services, Blockchain, and Web Development**
+- 📌 Interested in **Software Development, Cloud Services and Web Development**
 - 🎯 Currently exploring **DevOps, Open Source, and Full-Stack Architectures**
 - 🏆 Competitive Programmer: **700+ DSA Questions solved** across platforms
 
 ## 🔥 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -85,10 +88,6 @@ Tech Stack: **NodeJS, MongoDB, Razorpay, HTML, CSS, JavaScript**
 </a>
 
 ![SahilLokhande2604's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SahilLokhande2604&custom_title=SahilLokhande2604's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-## 🎯 Why rtCamp?
-
-rtCamp’s commitment to open-source, cloud-native, and cutting-edge web engineering perfectly matches my own passions. I am eager to learn, collaborate, and contribute to impactful projects with the rtCamp team!
 
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/sahillokhande21/](https://www.linkedin.com/in/sahillokhande21)
